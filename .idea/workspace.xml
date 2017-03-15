@@ -92,6 +92,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="redstunna &lt;redstunna@gmail.com&gt;" />
         <option value="dmitry" />
       </list>
     </option>
@@ -452,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489569397593</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New changes">
+      <created>1489569496298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1489569496298</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
